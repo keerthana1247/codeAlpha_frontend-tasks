@@ -1,0 +1,21 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+out/
+
+# Compiled files (not needed for HTML/CSS/JS projects)
+build/
+dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node (only if used in future)
+node_modules/
+
+# Environment files (if any)
+.env
