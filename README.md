@@ -34,4 +34,4 @@ Just open `index.html` in any browser.
 ---
 
 ## 🔗 GitHub Repository
-(Add your link here)
+(https://github.com/keerthana1247/codeAlpha_frontend-tasks)
